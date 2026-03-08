@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=feifxi&fontSize=60&fontColor=ffffff&fontAlignY=38&descSize=20&descColor=ffffff&descAlignY=60&descAlign=50)
-### Student & Software Engineer
+### Student @ KMUTT & Software Engineer
 
 I like building cool projects that actually work. 
 
