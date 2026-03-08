@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=feifxi&fontSize=60&fontColor=ffffff&fontAlignY=38&descSize=20&descColor=ffffff&descAlignY=60&descAlign=50)
-### Student @ KMUTT & Software Engineer
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=＆%20Student%20@%20KMUTT&descSize=25&descColor=ffffff&descAlignY=65&descAlign=50)
 
 I like building cool projects that actually work. 
 
