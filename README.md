@@ -6,10 +6,10 @@ I like building cool projects that actually work.
 ## Tech Stack
 
 ### Core Technologies
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,tailwind,go,java,spring,nodejs,express,prisma,postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,tailwind,go,java,spring,nodejs,express,prisma,postgres,mysql,mongodb,supabase" />
 
 ### DevOps & Cloud Infrastructure
-<img src="https://skillicons.dev/icons?i=git,docker,githubactions,terraform,nginx,aws,azure" />
+<img src="https://skillicons.dev/icons?i=git,docker,githubactions,nginx,linux,bash,terraform,aws,azure,cloudflare" />
 
-### AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+### AI, ML & Computer Vision
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
