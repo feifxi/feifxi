@@ -7,8 +7,8 @@ I like building cool projects that actually work.
 ### Core Technologies
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,go,java,spring,express,prisma,postgres,mysql,mongodb,supabase" />
 
-### DevOps & Cloud Infrastructure
-<img src="https://skillicons.dev/icons?i=git,docker,githubactions,nginx,linux,bash,terraform,aws,azure,cloudflare" />
+### DevOps, Cloud & Observability
+<img src="https://skillicons.dev/icons?i=git,docker,githubactions,nginx,linux,bash,terraform,aws,azure,cloudflare,prometheus,grafana" />
 
 ### AI, ML & Computer Vision
 <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
