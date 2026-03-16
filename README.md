@@ -5,7 +5,7 @@ I like building cool projects that actually work.
 ## Tech Stack
 
 ### Core Technologies
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,go,python,java,spring,express,prisma,postgres,mysql,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=ts,go,java,python,react,nextjs,vue,tailwind,spring,express,prisma,postgres,mysql,mongodb,supabase" />
 
 ### DevOps, Cloud & Observability
 <img src="https://skillicons.dev/icons?i=git,docker,githubactions,nginx,linux,bash,terraform,aws,azure,cloudflare,prometheus,grafana" />
