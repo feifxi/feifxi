@@ -1,6 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=＆%20Student%20@%20KMUTT&descSize=25&descColor=ffffff&descAlignY=65&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=＆%20Student%20@KMUTT&descSize=25&descColor=ffffff&descAlignY=65&descAlign=50)
 
-I like building cool projects that actually work. 
+> - **I love building cool projects that actually work.**
+> - Software Engineer Intern **@SCB**
+> - Passionate about `Distributed Systems`, `Cloud-Native Architecture`, and `AI/ML`
 
 ## Tech Stack
 
