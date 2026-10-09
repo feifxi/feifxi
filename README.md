@@ -13,4 +13,4 @@
 <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,githubactions,nginx,kafka,linux,bash,terraform,aws,azure,gcp,cloudflare,prometheus,grafana" />
 
 ### AI/ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
