@@ -1,4 +1,5 @@
 <img width="100%" alt="oioi" src="https://github.com/user-attachments/assets/a272a876-3cb2-4756-8451-1f9052b12fb3" />
+<img width="100%" alt="oioi" src="https://media.tenor.com/TtRiQdqhRGQAAAAj/skeleton-meme-skeleton.gif" />
 
 ## My Stack
 ### Languages
