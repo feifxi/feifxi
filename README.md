@@ -2,14 +2,8 @@
 
 ## My Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=ts,python,go,java,cpp" />
-
-### Web/App
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,express,nestjs,spring,fastapi,prisma,postgres,mysql,mongodb,redis,supabase" />
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=ts,python,go,java,cpp,react,nextjs,tailwind,threejs,express,nestjs,spring,fastapi,prisma,postgres,mysql,mongodb,redis,supabase,tensorflow,pytorch,opencv,sklearn" />
 
 ### DevOps, Cloud, Observability
 <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,githubactions,nginx,kafka,linux,bash,terraform,aws,azure,gcp,cloudflare,prometheus,grafana" />
-
-### AI/ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
