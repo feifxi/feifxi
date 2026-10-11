@@ -1,4 +1,3 @@
-### Me at the Hackathon (free food section) :
 <img width="100%" alt="oioioi" src="https://github.com/user-attachments/assets/a272a876-3cb2-4756-8451-1f9052b12fb3" />
 
 ## My Stack
