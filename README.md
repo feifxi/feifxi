@@ -2,7 +2,7 @@
 
 ## My Stack
 
-### Languages & Frameworks
+### Languages, Frameworks, Tools
 <img src="https://skillicons.dev/icons?i=ts,python,go,java,cpp,react,nextjs,tailwind,threejs,express,nestjs,spring,fastapi,prisma,postgres,mysql,mongodb,redis,supabase,tensorflow,pytorch,opencv,sklearn" />
 
 ### DevOps, Cloud, Observability
