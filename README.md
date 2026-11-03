@@ -5,5 +5,5 @@
     <img src="https://img.shields.io/badge/Portfolio_Gallery-Step_inside_→-6b7fa3?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=1b2130" alt="Portfolio Gallery: step inside" height="44" />
   </a>
   <br />
-  <sub>a 3D gallery of my work</sub>
+  <sub>a 3D gallery of my work (not done yet)</sub>
 </p>
